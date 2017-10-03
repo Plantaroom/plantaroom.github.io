@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ель обыкновенная (Picea abies)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/%D0%93%D0%B0%D0%BB%D0%BB%D1%8B%20%28Galls%29/%D0%95%D0%BB%D1%8C%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%28Picea%20abies%29/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://plantarium.info/%D0%93%D0%B0%D0%BB%D0%BB%D1%8B%20%28Galls%29/%D0%95%D0%BB%D1%8C%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%28Picea%20abies%29/%D0%A5%D0%B5%D1%80%D0%BC%D0%B5%D1%81%20%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9%20%28Adelges%20abietis%29/album.rss" title="Хермес желтый (Adelges abietis)" thumbnail="http://plantarium.info/%D0%93%D0%B0%D0%BB%D0%BB%D1%8B%20%28Galls%29/%D0%95%D0%BB%D1%8C%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%28Picea%20abies%29/%D0%A5%D0%B5%D1%80%D0%BC%D0%B5%D1%81%20%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9%20%28Adelges%20abietis%29/thumbs/DSC04049.jpg" thumbnailWidth="640" thumbnailHeight="480" />
+        
+    </channel>
+</rss>
