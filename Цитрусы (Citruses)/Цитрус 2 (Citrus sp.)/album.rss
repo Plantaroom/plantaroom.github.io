@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цитрус 2 (Citrus sp.)</title>
+   	<link>../..</link>
+        <generator>jAlbum 14.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/</jalbum:absolutePath>
+        <item>
+            <title>DSC05304</title>
+            <link>http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/slides/DSC05304.jpg</link>
+            <pubDate>Mon, 09 Oct 2017 22:09:57 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/thumbs/DSC05304.jpg" width="640" height="480"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/slides/DSC05304.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 23 Dec 2012 08:23:21 +0400" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05304.jpg</guid>
+        </item>
+        <item>
+            <title>DSC05305</title>
+            <link>http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/slides/DSC05305.jpg</link>
+            <pubDate>Mon, 09 Oct 2017 22:09:57 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/thumbs/DSC05305.jpg" width="640" height="480"/>
+            <media:content type="image/jpeg" url="http://plantarium.info/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%D1%8B%20%28Citruses%29/%D0%A6%D0%B8%D1%82%D1%80%D1%83%D1%81%202%20%28Citrus%20sp.%29/slides/DSC05305.jpg" width="1024" height="768"/>
+            <jalbum:exif originalDate="Sun, 23 Dec 2012 08:23:27 +0400" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC05305.jpg</guid>
+        </item>
+    </channel>
+</rss>
